@@ -1,0 +1,4 @@
+[09-Mar-2020 08:14:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/makocfgy/purple.makos.top/wp-content/themes/Purple/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/makocfgy/purple.makos.top/wp-content/themes/Purple/index.php on line 1
